@@ -1,0 +1,46 @@
+---
+title: "Asignatura de Programación Móvil"
+#subtitle: ""
+date: "today"
+author: "Diego Medardo Saavedra García"
+lang: "es"
+format:
+  #revealjs:
+    #incremental: true
+    #slide-number: true
+    #preview-links: auto
+    #logo: img/logo_uide.png
+    #css: styles.css
+    #footer: <https://www.uide.edu.ec>
+    #theme: dark
+    #makeindex: true
+    #multiplex: true
+    #transition: fade
+    #chalkboard: false #Pizarra
+    #auto-stretch: false
+  html: 
+    theme: dark
+    code-fold: true
+    html-math-method: katex
+    multiplex: true
+    transition: fade
+    auto-stretch: false
+    scrollable: true
+    mainfont: font-family
+    #fontcolor: blue
+    background-color: green
+    image: img/favicon-50x56.png
+    abstract: "El presente material didáctico se realiza con el objetivo de servir como apoyo a la asignatura de Programación Móvil de la Universidad Internacional del Ecuador."
+
+editor: visual
+execute: 
+  echo: true
+---
+
+# Indice.
+
+1.  Ecosistema del desarrollo móvil.
+
+2.  Instalación de Android Studio.
+
+3.  Creación de Interfaces, imágenes y otros recursos.
